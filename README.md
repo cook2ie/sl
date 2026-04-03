@@ -7,7 +7,7 @@
 
 ## 🔗 Live Site
 
-👉 [SL 클론코딩 바로가기](https://cook2ie.github.io/SL/)
+👉 [SL 클론코딩 바로가기](https://cook2ie.github.io/sl/)
 
 ---
 
