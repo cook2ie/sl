@@ -44,13 +44,6 @@
 
 ---
 
-## 🚀 Improvement
-
-- 실제 32인치 고해상도 환경에서 발생한 레이아웃 깨짐 문제를 분석하고 개선  
-- 다양한 디바이스 환경에서도 일관된 UI를 유지할 수 있도록 구조 재설계 
-
----
-
  ## 📸 Preview
 
 <img width="3805" height="1896" alt="image" src="https://github.com/user-attachments/assets/cb7bfb81-9d2b-4feb-be25-0d65af39d3bb" />
